@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Tailwind
 
 React Vite Tailwind Starter
 This is a starter template for building React applications using Vite and Tailwind CSS.

@@ -1,6 +1,10 @@
 function Characters( props) {
 
- const { characters, setCharecters} = props;
+
+ const { characters, setCharacters} = props;
+ const resetCharacters = () => {
+  setCharacters(null);
+}
     return (
       <>
         <div>
